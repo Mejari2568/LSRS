@@ -1,1 +1,5 @@
+paste the admin folder in isrs 1 folder 
+now place the isrs1 folder in htdocs folder in xxamp
+now create the database in phpmyadmin 
+now run the code in the brower using local host / isrs1
 
